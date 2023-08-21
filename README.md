@@ -2,7 +2,7 @@
 
 The Partial Correlation Calculator (PCORR) is a web application for computing partial correlation coefficients.
 
-PCORR aims to serve researchers in laboratory settings, where popular analytic software do not support partial correlation coefficient computation.
+PCORR aims to serve researchers in laboratory settings, where popular analytic software does not support partial correlation coefficient computation.
 
 PCORR is coded in R using [Shiny](https://shiny.rstudio.com/).
 
