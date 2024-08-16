@@ -1,10 +1,10 @@
-# Partial Correlation Calculator (PCORR)
+# Partial Correlation Calculator (PCC)
 
-The Partial Correlation Calculator (PCORR) is a web application for computing partial correlation coefficients.
+The Partial Correlation Calculator (PCCC) is a web application for computing partial correlation coefficients.
 
-PCORR aims to serve researchers in laboratory settings, where popular analytic software does not support partial correlation coefficient computation.
+PCC aims to serve researchers in laboratory settings, where popular analytic software does not support partial correlation coefficient computation.
 
-PCORR is coded in R using [Shiny](https://shiny.rstudio.com/).
+PCC is coded in R using [Shiny](https://shiny.rstudio.com/).
 
 ## Deployment
 
