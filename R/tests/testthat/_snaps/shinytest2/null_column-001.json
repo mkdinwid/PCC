@@ -1,0 +1,29 @@
+{
+  "input": {
+    "alpha": "0.05",
+    "clear": 0,
+    "dataset": null,
+    "header": true,
+    "method": "spearman",
+    "selectXY": null,
+    "selectZCat": null,
+    "selectZCont": null,
+    "update": 0
+  },
+  "output": {
+    "downloadUI": {
+      "html": "<div style=\"padding:4px; font-size:100%\">Output available for download following analysis.<\/div>",
+      "deps": [
+
+      ]
+    },
+    "mytable": [
+      "",
+      "NULL",
+      "c(\"shiny.silent.error\", \"validation\")"
+    ]
+  },
+  "export": {
+
+  }
+}

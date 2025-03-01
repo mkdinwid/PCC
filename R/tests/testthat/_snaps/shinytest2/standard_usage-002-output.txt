@@ -1,0 +1,17 @@
+ANALYSIS-LEVEL DETAIL: 
+──────────────────────
+Correlation Method: spearman
+Significance Level: 0.05
+
+UNADJUSTED CORRELATION METRICS: 
+──────────────────────────────
+Coefficient: -0.1069
+P-Value: 7.16e-01
+
+PARTIAL CORRELATION METRICS: 
+────────────────────────────
+Coefficient: -0.1957
+P-Value: 5.42e-01
+CI Method: 
+CI Lower Bound: -0.6611
+CI Upper Bound: 0.3785
