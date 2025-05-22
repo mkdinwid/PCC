@@ -10,14 +10,12 @@ This technique is useful in contexts where statistical models are inappropriate,
 
 ## Usage
 
-The PCC hosted online at the University of North Carolina at Chapel Hill's [Biostatistics Tools Page](https://www.med.unc.edu/cfar/resources/biostatistics-resources/). For a direct link, [click here](www.google.com).
-
-The application's source code is also available on the PCC [GitHub Repository](https://github.com/mkdinwid/PCC/tree/main/R). 
+The application's source code isavailable on the [PCC GitHub Repository](https://github.com/mkdinwid/PCC/tree/main/R). 
 
 ## User Manual
 
-The user manual is available online at: www.google.com/
+The user manual is available within the [PCC GitHub Repository](https://github.com/mkdinwid/PCC/blob/main/guide/PCC%20Usage%20Guide.pdf).
 
 ## Development
 
-Feature requests and bug reports can be submitted as a issue in the Github repository: www.google.com/
+Feature requests and bug reports can be submitted as a issue in the [PCC GitHub Repository](https://github.com/mkdinwid/PCC/issues).
