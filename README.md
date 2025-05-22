@@ -14,8 +14,13 @@ The application's source code isavailable on the [PCC GitHub Repository](https:/
 
 ## User Manual
 
-The user manual is available within the [PCC GitHub Repository](https://github.com/mkdinwid/PCC/blob/main/guide/PCC%20Usage%20Guide.pdf).
+Detailed usage instructions are available in the user manual. The user manual is stored within the [PCC GitHub Repository](https://github.com/mkdinwid/PCC/blob/main/guide/PCC%20Usage%20Guide.pdf).
+The PCC contains tooltips within the application interface to assist user understanding, but for detailed guidance, please consult the user manual.
 
-## Development
+## Development and Issues
 
 Feature requests and bug reports can be submitted as a issue in the [PCC GitHub Repository](https://github.com/mkdinwid/PCC/issues).
+
+## Acknowledgements
+
+This research was supported in part by the University of North Carolina at Chapel Hill Center For AIDS Research (CFAR), an NIH funded program P30AI050410.
