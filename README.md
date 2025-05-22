@@ -14,7 +14,7 @@ The application's source code is available on the [PCC GitHub Repository](https:
 
 ## User Manual
 
-Detailed usage instructions are available in the user manual. The user manual is stored within the [PCC GitHub Repository](https://github.com/mkdinwid/PCC/blob/main/guide/PCC%20Usage%20Guide.pdf).
+Detailed usage instructions are available in the user manual. The user manual is stored within the [PCC GitHub Repository](https://github.com/mkdinwid/PCC/blob/main/manual/PCC%20Usage%20Guide.pdf).
 The PCC contains tool-tips within the application interface to assist user understanding, but for detailed guidance, please consult the user manual.
 
 ## Development and Issues
