@@ -1,13 +1,4 @@
-# ui.r
-# By Matt Dinwiddie
-# 9/04/2023
-
-# Load libraries
-library(shinythemes)
-library(shinytest)
-library(shinyjs)
-library(shinybusy)
-
+# Define UI logic
 ui <- fluidPage(theme = shinytheme("flatly"),
                 
   navbarPage(
